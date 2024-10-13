@@ -11,6 +11,14 @@ Due to very deep use of columns names, if some uses another dataset, then there 
 1. Change the column names of the Code
 2. Change the column names of the Dataset
 ***
+### Property according to the map:
+![Alt text](https://github.com/Krunal-Chandan/Real_Estate_Scouting_Tool/blob/main/ss/REST_img2.png)
+### Details of the property:
+![Alt text](https://github.com/Krunal-Chandan/Real_Estate_Scouting_Tool/blob/main/ss/REST_img1.png)
+### Precise upto Plot No of Property
+![image](https://github.com/user-attachments/assets/555f1d93-b1c1-445d-bda5-9f1c7311e367)
+
+***
 Wanna implement this, __*Real Estate Scouting Tool*__
 
 To get started with the Real Estate Scouting Tool, follow these steps:
